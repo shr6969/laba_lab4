@@ -1,0 +1,18 @@
+---
+orderNumber: "ORD12345"
+customer:
+  firstName: "John"
+  lastName: "Doe"
+  email: "john.doe@example.com"
+  phoneNumber: "123-456-7890"
+products:
+- name: "Laptop"
+  description: "A powerful gaming laptop"
+  price: 1200.99
+  stockQuantity: 10
+- name: "Headphones"
+  description: "Noise-cancelling headphones"
+  price: 150.49
+  stockQuantity: 5
+totalAmount: 1351.48
+orderDate: "2024-11-07"
